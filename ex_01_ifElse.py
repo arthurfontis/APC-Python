@@ -1,5 +1,5 @@
 def calcMencao(n1,n2,n3):
-    resultado = ((n1 * 1) + (n2 * 2) + (n3 * 3)) / 6
+    resultado = ((n1 * 3) + (n2 * 4) + (n3 * 3)) / 6
     
     if resultado >= 9:
         print(f"Menção SS")
